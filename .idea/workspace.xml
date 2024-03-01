@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Number of divisors">
-      <change afterPath="$PROJECT_DIR$/number-of-passengers.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Number of passengers">
+      <change afterPath="$PROJECT_DIR$/powers-of-two.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709050078880</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Number of passengers">
+      <option name="closed" value="true" />
+      <created>1709284082349</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709284082349</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +216,7 @@
     <MESSAGE value="Basic mathematical operations" />
     <MESSAGE value="Palindrome" />
     <MESSAGE value="Number of divisors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number of divisors" />
+    <MESSAGE value="Number of passengers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number of passengers" />
   </component>
 </project>
