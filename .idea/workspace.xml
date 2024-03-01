@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Number of passengers">
-      <change afterPath="$PROJECT_DIR$/powers-of-two.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Power of two.">
+      <change afterPath="$PROJECT_DIR$/find-stray-num.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709284082349</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Power of two.">
+      <option name="closed" value="true" />
+      <created>1709286907907</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709286907907</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,6 +225,7 @@
     <MESSAGE value="Palindrome" />
     <MESSAGE value="Number of divisors" />
     <MESSAGE value="Number of passengers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number of passengers" />
+    <MESSAGE value="Power of two." />
+    <option name="LAST_COMMIT_MESSAGE" value="Power of two." />
   </component>
 </project>
