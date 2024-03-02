@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Football Championship Scores">
-      <change afterPath="$PROJECT_DIR$/sum-integers-between.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Sum integers between">
+      <change afterPath="$PROJECT_DIR$/pin-digit-checker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709360630932</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Sum integers between">
+      <option name="closed" value="true" />
+      <created>1709361814547</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709361814547</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,6 +252,7 @@
     <MESSAGE value="Power of two." />
     <MESSAGE value="Find stray number" />
     <MESSAGE value="Football Championship Scores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Football Championship Scores" />
+    <MESSAGE value="Sum integers between" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum integers between" />
   </component>
 </project>
