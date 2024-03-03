@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Sum of nth sequence">
-      <change afterPath="$PROJECT_DIR$/replace-alphabet-number.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Replace alphabet number">
+      <change afterPath="$PROJECT_DIR$/convert-string-to-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove-exclamations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709486000733</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Replace alphabet number">
+      <option name="closed" value="true" />
+      <created>1709490107777</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709490107777</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -289,6 +298,7 @@
     <MESSAGE value="Array difference" />
     <MESSAGE value="10 minutes walk" />
     <MESSAGE value="Sum of nth sequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of nth sequence" />
+    <MESSAGE value="Replace alphabet number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace alphabet number" />
   </component>
 </project>
