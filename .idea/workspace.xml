@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Convert string to array">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Two sums">
+      <change afterPath="$PROJECT_DIR$/two-sums.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -287,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709491048091</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Two sums">
+      <option name="closed" value="true" />
+      <created>1709524748027</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709524748027</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="Reversed array of digits" />
     <MESSAGE value="Added README file." />
     <MESSAGE value="Area or Perimeter" />
@@ -316,6 +323,7 @@
     <MESSAGE value="Replace alphabet number" />
     <MESSAGE value="Remove exclamations" />
     <MESSAGE value="Convert string to array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Convert string to array" />
+    <MESSAGE value="Two sums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two sums" />
   </component>
 </project>
