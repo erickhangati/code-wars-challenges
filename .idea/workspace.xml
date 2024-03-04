@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Replace alphabet number">
-      <change afterPath="$PROJECT_DIR$/convert-string-to-array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove-exclamations.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Convert string to array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +271,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709490107777</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Remove exclamations">
+      <option name="closed" value="true" />
+      <created>1709491010916</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709491010916</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Convert string to array">
+      <option name="closed" value="true" />
+      <created>1709491048091</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1709491048091</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -299,6 +314,8 @@
     <MESSAGE value="10 minutes walk" />
     <MESSAGE value="Sum of nth sequence" />
     <MESSAGE value="Replace alphabet number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace alphabet number" />
+    <MESSAGE value="Remove exclamations" />
+    <MESSAGE value="Convert string to array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert string to array" />
   </component>
 </project>
