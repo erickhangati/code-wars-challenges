@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Two sum">
-      <change afterPath="$PROJECT_DIR$/string_translate.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="String translate">
+      <change afterPath="$PROJECT_DIR$/persistent-bugger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -303,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709525060899</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="String translate">
+      <option name="closed" value="true" />
+      <created>1709528019096</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1709528019096</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added README file." />
     <MESSAGE value="Area or Perimeter" />
     <MESSAGE value="Accumulated capitalize string" />
     <MESSAGE value="Ex and Ohs" />
@@ -332,6 +339,7 @@
     <MESSAGE value="Convert string to array" />
     <MESSAGE value="Two sums" />
     <MESSAGE value="Two sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two sum" />
+    <MESSAGE value="String translate" />
+    <option name="LAST_COMMIT_MESSAGE" value="String translate" />
   </component>
 </project>
