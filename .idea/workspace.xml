@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Two to One">
-      <change afterPath="$PROJECT_DIR$/volume-cuboid.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Mixed katas">
+      <change afterPath="$PROJECT_DIR$/7-KYU/disemvowel-trolls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,11 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMMING\PYTHON\code-wars-challenges\mixed-katas" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="code-wars-challenges" />
@@ -53,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="D:\PROGRAMMING\PYTHON\code-wars-challenges\mixed-katas\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,12 +332,26 @@
       <option name="project" value="LOCAL" />
       <updated>1709958870917</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Volume of a Cuboid">
+      <option name="closed" value="true" />
+      <created>1709961713913</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1709961713914</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Mixed katas">
+      <option name="closed" value="true" />
+      <created>1709961936233</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1709961936233</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ex and Ohs" />
-    <MESSAGE value="Project files" />
     <MESSAGE value="Alternate case" />
     <MESSAGE value="Sum of positive number" />
     <MESSAGE value="Sum digits" />
@@ -356,6 +375,8 @@
     <MESSAGE value="String translate" />
     <MESSAGE value="Persistent bugger" />
     <MESSAGE value="Two to One" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two to One" />
+    <MESSAGE value="Volume of a Cuboid" />
+    <MESSAGE value="Mixed katas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mixed katas" />
   </component>
 </project>
