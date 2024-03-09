@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Highest and Lowest">
-      <change afterPath="$PROJECT_DIR$/7-KYU/descending-order.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Descending Order">
+      <change afterPath="$PROJECT_DIR$/7-KYU/middle-character.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -364,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709971749632</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Descending Order">
+      <option name="closed" value="true" />
+      <created>1709974061356</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1709974061356</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sum digits" />
     <MESSAGE value="Basic mathematical operations" />
     <MESSAGE value="Palindrome" />
     <MESSAGE value="Number of divisors" />
@@ -393,6 +400,7 @@
     <MESSAGE value="Mixed katas" />
     <MESSAGE value="Disemvowel Trolls" />
     <MESSAGE value="Highest and Lowest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Highest and Lowest" />
+    <MESSAGE value="Descending Order" />
+    <option name="LAST_COMMIT_MESSAGE" value="Descending Order" />
   </component>
 </project>
