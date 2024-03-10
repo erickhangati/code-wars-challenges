@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Growth of a Population">
-      <change afterPath="$PROJECT_DIR$/7-KYU/sum-the-repeats.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Sum the Repeats">
+      <change afterPath="$PROJECT_DIR$/7-KYU/grid-index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -404,11 +404,18 @@
       <option name="project" value="LOCAL" />
       <updated>1710075559391</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Sum the Repeats">
+      <option name="closed" value="true" />
+      <created>1710077625696</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710077625696</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Power of two." />
     <MESSAGE value="Find stray number" />
     <MESSAGE value="Football Championship Scores" />
     <MESSAGE value="Sum integers between" />
@@ -433,6 +440,7 @@
     <MESSAGE value="Elevator Distance" />
     <MESSAGE value="Average Fuel Consumption" />
     <MESSAGE value="Growth of a Population" />
-    <option name="LAST_COMMIT_MESSAGE" value="Growth of a Population" />
+    <MESSAGE value="Sum the Repeats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum the Repeats" />
   </component>
 </project>
