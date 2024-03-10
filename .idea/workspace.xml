@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Elevator Distance">
-      <change afterPath="$PROJECT_DIR$/7-KYU/average-fuel-consumption.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Average Fuel Consumption">
+      <change afterPath="$PROJECT_DIR$/7-KYU/growth-of-population.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -388,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709995374565</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Average Fuel Consumption">
+      <option name="closed" value="true" />
+      <created>1709998302963</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1709998302963</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Number of divisors" />
     <MESSAGE value="Number of passengers" />
     <MESSAGE value="Power of two." />
     <MESSAGE value="Find stray number" />
@@ -417,6 +424,7 @@
     <MESSAGE value="Descending Order" />
     <MESSAGE value="Middle Character" />
     <MESSAGE value="Elevator Distance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Elevator Distance" />
+    <MESSAGE value="Average Fuel Consumption" />
+    <option name="LAST_COMMIT_MESSAGE" value="Average Fuel Consumption" />
   </component>
 </project>
