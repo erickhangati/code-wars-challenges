@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Congo warehouses">
-      <change afterPath="$PROJECT_DIR$/7-KYU/find-your-villain-name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code-wars-challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code-wars-challenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mixed-katas/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-KYU/square-of-squares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "erickhangati"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/erickhangati/code-wars-challenges.git",
+    "accountId": "ebb4873e-652c-41e7-846d-39636973314b"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,16 +46,21 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.code-wars-challenges.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/USER/Desktop/CODE/PYTHON/PROJECTS/code-wars-challenges/mixed-katas/main.py",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\CODE\PYTHON\PROJECTS\code-wars-challenges" />
       <recent name="D:\PROGRAMMING\PYTHON\code-wars-challenges\mixed-katas" />
     </key>
   </component>
@@ -54,11 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (test)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PROGRAMMING\PYTHON\code-wars-challenges\mixed-katas\main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\CODE\PYTHON\PROJECTS\code-wars-challenges\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +92,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
