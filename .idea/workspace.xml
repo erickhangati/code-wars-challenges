@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="A square of squares">
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Jaden Casing Strings">
+      <change afterPath="$PROJECT_DIR$/7-KYU/shortest-word.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -470,11 +470,18 @@
       <option name="project" value="LOCAL" />
       <updated>1712650941504</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Jaden Casing Strings">
+      <option name="closed" value="true" />
+      <created>1712651767086</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1712651767086</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10 minutes walk" />
     <MESSAGE value="Sum of nth sequence" />
     <MESSAGE value="Replace alphabet number" />
     <MESSAGE value="Remove exclamations" />
@@ -499,6 +506,7 @@
     <MESSAGE value="Hex Hash Sum" />
     <MESSAGE value="Congo warehouses" />
     <MESSAGE value="A square of squares" />
-    <option name="LAST_COMMIT_MESSAGE" value="A square of squares" />
+    <MESSAGE value="Jaden Casing Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jaden Casing Strings" />
   </component>
 </project>
