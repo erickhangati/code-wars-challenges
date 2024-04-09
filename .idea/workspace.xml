@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Jaden Casing Strings">
-      <change afterPath="$PROJECT_DIR$/7-KYU/shortest-word.py" afterDir="false" />
+    <list default="true" id="50a2ee41-7ef8-4425-9df9-1eb972c71f6b" name="Changes" comment="Shortest Word">
+      <change afterPath="$PROJECT_DIR$/6-KYU/multiples-of-3-or-5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -478,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1712651767086</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Shortest Word">
+      <option name="closed" value="true" />
+      <created>1712652553106</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1712652553106</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sum of nth sequence" />
     <MESSAGE value="Replace alphabet number" />
     <MESSAGE value="Remove exclamations" />
     <MESSAGE value="Convert string to array" />
@@ -507,6 +514,7 @@
     <MESSAGE value="Congo warehouses" />
     <MESSAGE value="A square of squares" />
     <MESSAGE value="Jaden Casing Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jaden Casing Strings" />
+    <MESSAGE value="Shortest Word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shortest Word" />
   </component>
 </project>
